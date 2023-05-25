@@ -6,10 +6,6 @@
 
 I am a pre-final year college student who is passionate about AI and Data Science. I am constantly exploring new projects in these areas, such as Deep Learning, Digital Image Processing, Neural Nets, Applied AI, Parallel Computing, and Embedded Board Design. I am always looking for opportunities to collaborate with others to further my skills and knowledge.
 
-- ⚡ In my free time I read tech articles.
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Chethan-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/chethan-y-754371210)
----
-
 ### 🛠 &nbsp;Languages and Tools :
 
 <p>
