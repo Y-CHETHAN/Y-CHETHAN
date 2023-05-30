@@ -23,4 +23,10 @@ I am a pre-final year college student who is passionate about AI and Data Scienc
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Y-CHETHAN&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Y-CHETHAN&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<a href="(https://readmestats.999857.xyz/api?username=Y-CHETHAN&theme=transparent&show_icons=true&rank_icon=github)">
+  <img align="center" src="https://readmestats.999857.xyz/api?username=Y-CHETHAN&theme=transparent&show_icons=true&rank_icon=github" />
+</a>
+<a href="[(https://github.com/anuraghazra/github-readme-stats)](https://readmestats.999857.xyz/api/top-langs/?username=Y-CHETHANlayout=donut&theme=transparent&langs_count=10)">
+  <img align="center" src="https://readmestats.999857.xyz/api/top-langs/?username=Y-CHETHAN&layout=donut&theme=transparent&langs_count=10" />
+</a>
+
