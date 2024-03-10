@@ -17,10 +17,6 @@ I am a final year college student who is passionate about AI and Data Science. I
 ### 🔥 &nbsp; My Stats :
 <p align="left"><img src="https://komarev.com/ghpvc/?username=Y-CHETHAN&style=flat-square&color=blue" alt=""></p>
 
-<a href="[(https://github.com/anuraghazra/github-readme-stats)](https://readmestats.999857.xyz/api/top-langs/?username=Y-CHETHANlayout=donut&theme=transparent&langs_count=10)">
-  <img align="center" src="https://readmestats.999857.xyz/api/top-langs/?username=Y-CHETHAN&layout=donut&theme=transparent&langs_count=10" />
-</a>
-
 <a href="(https://readmestats.999857.xyz/api?username=Y-CHETHAN&theme=transparent&show_icons=true&rank_icon=github)">
   <img align="center" src="https://readmestats.999857.xyz/api?username=Y-CHETHAN&theme=transparent&show_icons=true&rank_icon=github" />
 </a>
