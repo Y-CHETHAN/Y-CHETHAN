@@ -1,7 +1,5 @@
 <h1 align="center">Hey There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
-<p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
-
 ### :man_technologist: &nbsp;About Me :
 
 I am a final year college student who is passionate about AI and Data Science. I am constantly exploring new projects in these areas, such as Deep Learning, Digital Image Processing, Neural Nets, Applied AI, Parallel Computing, and Embedded Board Design. I am always looking for opportunities to collaborate with others to further my skills and knowledge.
